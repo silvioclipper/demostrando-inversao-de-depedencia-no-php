@@ -1,6 +1,6 @@
 # Intenção
 
-### O intuito é exemplicar a aplica da inversão de controle do SOLID.
+### O intuito é exemplificar a aplica da inversão de controle do SOLID.
 
 ## Para rodar a aplicação:
 
